@@ -18,3 +18,7 @@ git branch (name of branch)
 
 //switch to a different branch
 git checkout (name of branch)
+
+//this pushes the code to a specific branch
+git push origin (branch name)
+
