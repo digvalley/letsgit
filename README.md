@@ -2,4 +2,13 @@
 
 > This is git
 
-I just added this.
+# common git commands:
+
+// add folders to git project
+git add .
+
+// commit/add changes
+git commit -a -m" some message"
+
+// get updated code from the central repo
+git pull
