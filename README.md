@@ -13,4 +13,17 @@ git commit -a -m" some message"
 // get updated code from the central repo
 git pull
 
-//Hello little fella.
+//create a new branch
+git branch (name of branch)
+
+//switch to a different branch
+git checkout (name of branch)
+
+//this pushes the code to a specific branch
+git push origin (branch name)
+
+//create a new folder
+mkdir folder-name
+
+//cd
+change directory 
